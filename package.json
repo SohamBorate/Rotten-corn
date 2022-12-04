@@ -1,0 +1,22 @@
+{
+  "name": "rotten-corn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Soham Borate",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "fr": "^1.2.2",
+    "https": "^1.0.0",
+    "uuid": "^8.3.2",
+    "youtube-sr": "^4.2.0",
+    "yt-converter": "^1.3.1",
+    "ytdl-core": "^4.11.0"
+  }
+}
